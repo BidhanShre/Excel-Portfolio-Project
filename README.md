@@ -6,7 +6,7 @@ This repository serves as a centralized space to store and track all my Excel pr
 
 # Project Included
 
-## Budget Tracker
+## 1. Budget Tracker
 This project is a Budget Tracking project which is a simple and efficient tool for managing income, expenses, and savings.
 
 <img width="987" height="574" alt="image" src="https://github.com/user-attachments/assets/07197d57-a08d-471e-bfd2-9af6273ee25e" />
